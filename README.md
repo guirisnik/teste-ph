@@ -1,11 +1,19 @@
-Estamos mais interessados em observar se você já teve contato com lógica de programação. Se você não domina Python, você pode:
+## Sobre o exercício
 
-1. Ir no google (nossa preferida). Sem medo de errar... Nós queremos ver como você pensa
-2. Ou escrever em outra linguagem que utilizamos:
+Para resolver o exercício você pode usar o esqueleto do arquivo `main.py`, mas não é necessário resolvê-lo em `Python`! Na Creditas usamos as linguagens:
 
 - JavaScript (NodeJS);
 - Java/Kotlin;
 - Ruby;
+
+## Como entregar
+
+1. Use o recurso `fork` do Github para copiar este repositório para sua conta particular.
+2. Baixe o repositório no seu computador e construa seu código.
+3. Suba o código de volta no repositório
+4. Envie um email para guilherme.risnik@creditas.com.br com o link para o seu repositório
+
+---
 
 ## The Tyranny of the Rocket Equation
 
